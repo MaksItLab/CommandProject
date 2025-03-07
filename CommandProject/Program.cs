@@ -11,6 +11,7 @@ namespace CommandProject
         static void Main(string[] args)
         {
             Console.WriteLine("Exit");
+            Console.WriteLine();
 
         }
     }
