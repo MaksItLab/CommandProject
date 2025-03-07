@@ -11,6 +11,7 @@ namespace CommandProject
         static void Main(string[] args)
         {
             Console.WriteLine("Ramazan!");
+            Console.WriteLine("Привет всем!");
         }
     }
 }
