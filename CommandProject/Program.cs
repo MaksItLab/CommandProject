@@ -11,7 +11,6 @@ namespace CommandProject
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Lenar");
 
         }
     }
