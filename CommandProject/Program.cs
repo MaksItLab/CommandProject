@@ -10,6 +10,7 @@ namespace CommandProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Askar");
         }
     }
 }
